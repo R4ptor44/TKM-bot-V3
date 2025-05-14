@@ -17,9 +17,9 @@ WhatsApp Me : 263775571820
 require("./all/module.js")
 
 //========== Setting Owner ==========//
-global.owner = "263775571820"
-global.namaowner = "TKM-mods"
-global.namaowner2 = "TKM-mods"
+global.owner = "769649261"
+global.namaowner = "Mamadou"
+global.namaowner2 = "Diakhaté"
 
 //======== Setting Bot & Link ========//
 global.namabot = "𝚃𝙺𝙼-𝚋𝚘𝚝" 
@@ -34,7 +34,7 @@ global.packname = "Created By TKM-mods"
 global.author = "TKM-mods"
 
 //========== Setting Event ==========//
-global.welcome = true
+global.welcome = false
 global.autoread = false
 global.anticall = false
 global.autoreadsw = false
